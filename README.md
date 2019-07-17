@@ -61,7 +61,7 @@ This will create a folder in `monitor` called `data` where mongo writes all of i
 #### 6. setup mongodb
 
 ```
-node setup-db.py
+node tools/setup-db.js
 ```
 
 #### 7. launch the app locally using `npm start`
